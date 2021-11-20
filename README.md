@@ -5,9 +5,12 @@
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwSzMFT/redetv.jpg" group-title="ABERTOS",REDE TV - FHD
+http://clientexyz.xyz:80/dalila/123456/83662
+
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/910892262878244914/REDE2BTV2521.png" group-title="Canais Abertos", Rede TV
-http://clientexyz.xyz:8080/jonathan1/jonathan2/83662
+http://solutionplay.xyz:8080/techruthes/10987658/6331
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos",Globo RJ
