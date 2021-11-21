@@ -20,7 +20,7 @@ http://clientexyz.xyz:8080/jonathan1/jonathan2/83006
 ----------------------------------------------------------------------Fechados---------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet
-http://clientexyz.xyz:8080/jonathan1/jonathan2/82904
+http://143.244.35.131/6241070/2402/179?token=QUxBUFZndVVBQkZreGFx
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel
