@@ -19,6 +19,12 @@ http://clientexyz.xyz:8080/jonathan1/jonathan2/83006
 
 ----------------------------------------------------------------------Fechados---------------------------------------------------------------------
 
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909935029386367037/Z.png" group-title=" Canais Fechados", TvCine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet
 http://143.244.35.131/6241070/2402/179?token=QUxBUFZndVVBQkZreGFx
 
