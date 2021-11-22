@@ -25,12 +25,18 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet FHD
+http://vipeiptv.com:25461/567890/567890/856287
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet HD
+http://vipeiptv.com:25461/567890/567890/856285
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet
-http://143.244.35.131/6241070/2402/179?token=QUxBUFZndVVBQkZreGFx
+http://vipeiptv.com:25461/567890/567890/856283
 
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel
-http://clientexyz.xyz:8080/jonathan1/jonathan2/82909
-
-
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel FHD
+http://vipeiptv.com:25461/567890/567890/856042
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel HD
+http://vipeiptv.com:25461/567890/567890/856040
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel SD
+http://vipeiptv.com:25461/567890/567890/856038
 -----------------------------------------------------------------------Final----------------------------------------------------------------------
