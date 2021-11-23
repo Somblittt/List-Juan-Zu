@@ -17,12 +17,15 @@ https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnz_E4F9c5gPE62T8t
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos",Globo RJ
 http://clientexyz.xyz:8080/jonathan1/jonathan2/83006
 
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", Sbt HD
+http://main.cteam.me/315980735/328842264/888404
+
 ----------------------------------------------------------------------Fechados---------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909935029386367037/Z.png" group-title=" Canais Fechados", TvCine
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet FHD
