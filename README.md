@@ -6,11 +6,11 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/910892262878244914/REDE2BTV2521.png" group-title="Canais Abertos", Rede TV
-http://clientexyz.xyz:80/dalila/123456/83662
+https://stmv1.srvstm.com/rommel6055/rommel6055/chunklist_w37106422.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", Tv Brasil
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnz_E4F9c5gPE62T8thOyHE)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn-d9Ac5zhU-LZZFAaxzZOg)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 
 
