@@ -13,9 +13,12 @@ https://stmv1.srvstm.com/rommel6055/rommel6055/chunklist_w37106422.m3u8
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn-d9Ac5zhU-LZZFAaxzZOg)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos",Globo RJ
-http://clientexyz.xyz:8080/jonathan1/jonathan2/83006
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ FHD
+http://pfsv.io:80/Robson2021/Robson2021/352
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ HD
+http://pfsv.io:80/Robson2021/Robson2021/392
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ SD
+http://pfsv.io:80/Robson2021/Robson2021/427
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", Sbt HD
