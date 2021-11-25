@@ -13,12 +13,14 @@ https://stmv1.srvstm.com/rommel6055/rommel6055/chunklist_w37106422.m3u8
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn-d9Ac5zhU-LZZFAaxzZOg)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", GLOBO - 4K
+http://u9in.club:80/Rafael123/Rafael123/83140
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ FHD
-http://pfsv.io:80/Robson2021/Robson2021/352
+http://u9in.club:80/Rafael123/Rafael123/83006
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ HD
-http://pfsv.io:80/Robson2021/Robson2021/392
+http://u9in.club:80/Rafael123/Rafael123/83004
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo RJ SD
-http://pfsv.io:80/Robson2021/Robson2021/427
+http://u9in.club:80/Rafael123/Rafael123/83002
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", Sbt HD
@@ -27,15 +29,15 @@ http://main.cteam.me/315980735/328842264/888404
 ----------------------------------------------------------------------Fechados---------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909935029386367037/Z.png" group-title=" Canais Fechados", TvCine
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909935029386367037/Z.png" group-title="Canais Fechados", TvCine HD
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet FHD
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Animal Planet FHD
 http://vipeiptv.com:25461/567890/567890/856287
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Animal Planet HD
 http://vipeiptv.com:25461/567890/567890/856285
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados",Animal Planet
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877787522277396/ZUDhzfjP6w0mg0zDdtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw8X8rSJ00JLa1FgAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Animal Planet SD
 http://vipeiptv.com:25461/567890/567890/856283
 
 
