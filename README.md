@@ -46,6 +46,9 @@ http://solutionplay.xyz:8080/techruthes/10987658/27115
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/918704072436105246/2FGVcAAAAAElFTkSuQmCC.png" group-title="Canais Fechados",Discovery World
 
-
-
-
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva FHD
+http://62.210.244.125:8080/live/@kael@/97140891/66344.m3u8
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Viva HD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva HD
+http://62.210.244.125:8080/live/@kael@/97140891/330.m3u8
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Viva SD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva SD
+http://62.210.244.125:8080/live/@kael@/97140891/329.m3u8
