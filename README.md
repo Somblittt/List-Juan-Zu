@@ -17,11 +17,12 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo 4K
 http://sv1.casaplayer.com.br:8080/deusdete/123456/3349
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo FHD
-http://62.210.244.125:8080/live/@kael@/97140891/365.m3u8
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12964
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo HD
-
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo SD
-http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45492
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel
@@ -52,3 +53,5 @@ http://62.210.244.125:8080/live/@kael@/97140891/66344.m3u8
 http://62.210.244.125:8080/live/@kael@/97140891/330.m3u8
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Viva SD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva SD
 http://62.210.244.125:8080/live/@kael@/97140891/329.m3u8
+
+
