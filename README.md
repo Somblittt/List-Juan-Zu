@@ -14,11 +14,14 @@ http://solutionplay.xyz:8080/techruthes/10987658/6104
 http://solutionplay.xyz:8080/techruthes/10987658/27348
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909933883368300544/Z.png" group-title="Canais Abertos", Record TV
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3349
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo FHD
+http://62.210.244.125:8080/live/@kael@/97140891/365.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo HD
 
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo SD
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45492
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908877298869092362/pRV1BEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEG05j8ycmAw4sNzSAAAAABJRU5ErkJggg.png" group-title="Canais Fechados", Discovery Channel
