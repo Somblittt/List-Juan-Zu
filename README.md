@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TVCINE.br" tvg-name=" - TVCINE" tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909935029386367037/Z.png" group-title="Canais Fechados", TvCine
-
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", Tv Brasil
 http://solutionplay.xyz:8080/techruthes/10987658/27359
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", SBT
