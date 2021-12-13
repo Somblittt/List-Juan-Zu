@@ -14,14 +14,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/6104
 http://solutionplay.xyz:8080/techruthes/10987658/27348
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909933883368300544/Z.png" group-title="Canais Abertos", Record TV
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo 4K
-http://sv1.casaplayer.com.br:8080/deusdete/123456/3349
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo FHD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12964
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo SD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo
+http://show.servidor.tv:8080/elizete1/elizete1/268
 
 
 
