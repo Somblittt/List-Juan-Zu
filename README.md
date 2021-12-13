@@ -5,7 +5,7 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", Tv Brasil
 http://solutionplay.xyz:8080/techruthes/10987658/27359
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", SBT
-http://solutionplay.xyz:8080/techruthes/10987658/27332
+http://show.servidor.tv:8080/elizete1/elizete1/402
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/910892262878244914/REDE2BTV2521.png" group-title="Canais Abertos", Rede TV
 http://solutionplay.xyz:8080/techruthes/10987658/27367
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Records News
@@ -13,7 +13,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6104
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="Canais Abertos", Band
 http://solutionplay.xyz:8080/techruthes/10987658/27348
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909933883368300544/Z.png" group-title="Canais Abertos", Record TV
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+http://o7h80qruwf.mais7.ovh/elizete1/elizete1/29780?token=dmY2YksyVXE0ZFgyblV4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo
 http://show.servidor.tv:8080/elizete1/elizete1/268
 
@@ -38,14 +38,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/27170
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="Canais Fechados", AMC 
 http://solutionplay.xyz:8080/techruthes/10987658/27115
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/918703085096931399/1200px-Investigation_Discovery_Logo_2018.png" group-title="Canais Fechados", Discovery Investigation
-
+http://show.servidor.tv:8080/elizete1/elizete1/218
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/918704072436105246/2FGVcAAAAAElFTkSuQmCC.png" group-title="Canais Fechados",Discovery World
-
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva FHD
-http://62.210.244.125:8080/live/@kael@/97140891/66344.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Viva HD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva HD
-http://62.210.244.125:8080/live/@kael@/97140891/330.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Viva SD" tvg-logo="http://rtrmsrv22.gq/images/logos/viva.png" group-title="Canais: Variedades",Viva SD
-http://62.210.244.125:8080/live/@kael@/97140891/329.m3u8
-
-
+http://show.servidor.tv:8080/elizete1/elizete1/326
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva
+http://show.servidor.tv:8080/elizete1/elizete1/10
