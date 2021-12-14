@@ -8,7 +8,7 @@
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", Tv Brasil
-http://solutionplay.xyz:8080/techruthes/10987658/27359
+http://show.servidor.tv:8080/elizete1/elizete1/22513
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", SBT
 http://show.servidor.tv:8080/elizete1/elizete1/402
@@ -23,7 +23,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6104
 http://solutionplay.xyz:8080/techruthes/10987658/27348
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909933883368300544/Z.png" group-title="Canais Abertos", Record TV
-http://o7h80qruwf.mais7.ovh/elizete1/elizete1/29780?token=dmY2YksyVXE0ZFgyblV4
+http://show.servidor.tv:8080/elizete1/elizete1/29780
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/909592540083257354/2Q.png" group-title="Canais Abertos", Globo
 http://show.servidor.tv:8080/elizete1/elizete1/268
@@ -69,6 +69,7 @@ http://show.servidor.tv:8080/elizete1/elizete1/326
 http://show.servidor.tv:8080/elizete1/elizete1/10
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/919786959877054514/wDPD1RHxgcxlIAAAAASUVORK5CYII.png" group-title="Canais Fechados", HBO°
+http://show.servidor.tv:8080/elizete1/elizete1/56496
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/919787034753777754/R9SetpMtrrGwuPifRNqZRbUspuZwdBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEORr8S9cmu1BRMKZ7QAAAABJRU5ErkJggg.png" group-title="Canais Fechados", HBO°2
 http://show.servidor.tv:8080/elizete1/elizete1/231
@@ -90,3 +91,6 @@ http://show.servidor.tv:8080/elizete1/elizete1/224
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/919791076095701032/qlvx9KSvWU0AAAAASUVORK5CYII.png" group-title="Canais Fechados", HBO° Xtreme
 http://show.servidor.tv:8080/elizete1/elizete1/56490
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/919807398145826816/AS7cxQnGbfOVAAAAAElFTkSuQmCC.png" group-title="Canais Fechados", Universal Channel
+http://show.servidor.tv:8080/elizete1/elizete1/67
