@@ -14,7 +14,7 @@ https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLht2cUSZooUL5SL7VK
 http://show.servidor.tv:8080/elizete1/elizete1/402
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/910892262878244914/REDE2BTV2521.png" group-title="Canais Abertos", Rede TV
-http://solutionplay.xyz:8080/techruthes/10987658/27367
+http://netturbotv.xyz:80/fernandes2021/2021fernandes/814192
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Records News
 http://solutionplay.xyz:8080/techruthes/10987658/6104
