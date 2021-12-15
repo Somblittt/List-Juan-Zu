@@ -8,7 +8,7 @@
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", Tv Brasil
-http://show.servidor.tv:8080/elizete1/elizete1/22513
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLht2cUSZooUL5SL7VKTHjaw)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/912562067901403206/2Q.png" group-title="Canais Abertos", SBT
 http://show.servidor.tv:8080/elizete1/elizete1/402
