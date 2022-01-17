@@ -55,6 +55,3 @@ http://rec2.distv.net:80/patricia/123456/114
 http://rec2.distv.net:80/patricia/123456/114
 #EXTINF:-1 tvg-logo="Foto URL" group-title="Categoria", Animal Planet (HD-V)
 http://rec2.distv.net:80/patricia/123456/114
-
-
-
