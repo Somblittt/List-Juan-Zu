@@ -26,6 +26,8 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Record News (HD-V)
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_480_av-p.m3u8
 
+   GG
+
 
 
 
