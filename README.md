@@ -60,4 +60,4 @@ http://rec2.distv.net:80/patricia/123456/114
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/907042077114785813/934881125283815494/Nao-olhe-para-cima-capa-vitamina-nerd.png" group-title="Filmes", Não Olhe Para Cima( HD )
-https://www.tudobaratorj.com.br/cesta-basica-para-doacao-basica-6-itens/
+https://cdn1.lordplayer.club/GhTK1AO4URKRF9z_9Wb1pgM-0GjKZc63DyIo6d471FUMN2SlEsQEB0mCEVDu7jB6kPhbshF_Xg9lzpQI9IkM2A/BJ6OcV-icj1jZ3qKqqF37KhD6HUXbhzqEpwxWS7nYm0/720.m3u8
