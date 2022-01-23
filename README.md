@@ -57,3 +57,7 @@ http://rec2.distv.net:80/patricia/123456/114
 http://rec2.distv.net:80/patricia/123456/114
 #EXTINF:-1 tvg-logo="Foto URL" group-title="Categoria", Animal Planet (HD-V)
 http://rec2.distv.net:80/patricia/123456/114
+
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/907042077114785813/934881125283815494/Nao-olhe-para-cima-capa-vitamina-nerd.png" group-title="Filmes", Não Olhe Para Cima( HD )
+https://www.tudobaratorj.com.br/cesta-basica-para-doacao-basica-6-itens/
