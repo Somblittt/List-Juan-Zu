@@ -28,8 +28,11 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_480_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Rede TV
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=6343514977217871000
 
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Rede TV1
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Rede TV2
 
 
 -----------------------------------------------------------------------------------------------!!Canais Fechados!!-------------------------------------------------------------------------------------------------------------------
