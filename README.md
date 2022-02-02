@@ -34,6 +34,11 @@ https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=6
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" group-title="Canais Abertos", Rede TV2
 
+#EXTINF:-1 tvg-logo="Foto URL" group-title="Categoria", TV Brasil
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoZDMo4fmAgbQHbzU21EVnk)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+
+
 
 -----------------------------------------------------------------------------------------------!!Canais Fechados!!-------------------------------------------------------------------------------------------------------------------
 
